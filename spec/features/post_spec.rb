@@ -1,0 +1,1 @@
+describe 'navigate' do
