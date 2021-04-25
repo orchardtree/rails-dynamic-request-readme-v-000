@@ -1,3 +1,5 @@
+# spec/features/post_spec.rb
+
 require 'rails_helper'
 
 describe 'navigate' do
