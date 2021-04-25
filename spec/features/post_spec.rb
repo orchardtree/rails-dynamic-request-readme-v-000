@@ -6,7 +6,7 @@ describe 'navigate' do
   end
 
   it 'loads the show page' do
-    visit "posts/#{post.id}"
+    visit "/posts/#{post.id}"
     expect(page.status_code).to eq(200)
   end
 end
